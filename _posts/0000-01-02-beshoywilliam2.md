@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello there
+bas yad ya 7omar
 Use the left arrow to go back!
